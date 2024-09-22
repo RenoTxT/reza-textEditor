@@ -1,0 +1,30 @@
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.AssemblyReference.cache
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Properties.Resources.resources
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.GenerateResource.cache
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.CoreCompileInputs.cache
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Form1.resources
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe.config
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.pdb
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.exe
+C:\Users\reza0\Documents\ATMI PRAKTEK\PEMOGRAMAN3\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.pdb
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe.config
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.pdb
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.AssemblyReference.cache
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Form1.resources
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Properties.Resources.resources
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.GenerateResource.cache
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.CoreCompileInputs.cache
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.exe
+D:\TPr\reza\R-SOLUTION5\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.pdb
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe.config
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.exe
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\bin\Debug\LATIHAN 5.pdb
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.AssemblyReference.cache
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Form1.resources
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN_5.Properties.Resources.resources
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.GenerateResource.cache
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.csproj.CoreCompileInputs.cache
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.exe
+C:\Users\Rendezvous\Downloads\R-SOLUTION5.2\R-SOLUTION5\LATIHAN 5\obj\Debug\LATIHAN 5.pdb
